@@ -1,0 +1,1 @@
+# spring-cloud-openfeign-2.2.2.RELEASE
