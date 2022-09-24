@@ -95,7 +95,6 @@ class FeignClientFactoryBean
 				.decoder(get(context, Decoder.class))
 				.contract(get(context, Contract.class));
 		// @formatter:on
-
 		configureFeign(context, builder);
 
 		return builder;
